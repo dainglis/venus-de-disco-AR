@@ -851,8 +851,8 @@
           "assetLocator": "blocks/block0/block0.arblock",
           "excludeDuringExport": true,
           "instances": [
-            "block_scene_model:1009773-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-            "block_scene_model:1015655-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+            "block_scene_model:37160-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+            "block_scene_model:39340-6056f769-038e-42a0-9f5a-fe38e739e1ed",
             "block_scene_model:544669-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
             "block_scene_model:98096-6dd63439-4270-45ae-afc6-bd61ff2ea1c5"
           ],

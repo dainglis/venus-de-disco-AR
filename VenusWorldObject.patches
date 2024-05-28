@@ -73,22 +73,6 @@
     "connections": [
       {
         "modelName": "patch_connection_model",
-        "identifier": "patch_connection_model:1010543-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "fromPatch": "producer_patch_model:1010539-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "fromPort": "1269790938909195501",
-        "toPatch": "consumer_patch_model:1010541-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "toPort": "101"
-      },
-      {
-        "modelName": "patch_connection_model",
-        "identifier": "patch_connection_model:1016451-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "fromPatch": "producer_patch_model:1016447-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "fromPort": "1269790938909195501",
-        "toPatch": "consumer_patch_model:1016449-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "toPort": "101"
-      },
-      {
-        "modelName": "patch_connection_model",
         "identifier": "patch_connection_model:169633-b3784c87-c644-4d4b-8023-74eb5631ab63",
         "fromPatch": "template_patch_model:168553-b3784c87-c644-4d4b-8023-74eb5631ab63",
         "fromPort": "101",
@@ -577,19 +561,35 @@
       },
       {
         "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:25508-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "fromPatch": "producer_patch_model:1004841-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+        "fromPort": "1269790938909195501",
+        "toPatch": "consumer_patch_model:25506-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:40704-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "fromPatch": "producer_patch_model:37878-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "fromPort": "1269790938909195501",
+        "toPatch": "consumer_patch_model:37874-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:40825-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "fromPatch": "producer_patch_model:40702-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "fromPort": "1269790938909195501",
+        "toPatch": "consumer_patch_model:40823-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "toPort": "101"
+      },
+      {
+        "modelName": "patch_connection_model",
         "identifier": "patch_connection_model:503635-95d88d42-94c3-4d21-be5e-db151fe8757c",
         "fromPatch": "shader_code_patch_model:503589-95d88d42-94c3-4d21-be5e-db151fe8757c",
         "fromPort": "16777216",
         "toPatch": "consumer_patch_model:503513-95d88d42-94c3-4d21-be5e-db151fe8757c",
         "toPort": "20"
-      },
-      {
-        "modelName": "patch_connection_model",
-        "identifier": "patch_connection_model:8438-6056f769-038e-42a0-9f5a-fe38e739e1ed",
-        "fromPatch": "producer_patch_model:1004841-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "fromPort": "1269790938909195501",
-        "toPatch": "consumer_patch_model:550637-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "toPort": "101"
       },
       {
         "modelName": "patch_connection_model",
@@ -837,8 +837,6 @@
         "modelName": "patch_graph",
         "identifier": "patch_graph:1078-19c62b79-8d4c-49c9-ae3f-98605ecfa30f",
         "subpatches": [
-          "consumer_patch_model:1010541-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-          "consumer_patch_model:1016449-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
           "consumer_patch_model:164410-9fd244b2-9a79-495d-87b3-1df519b7daed",
           "consumer_patch_model:165444-9fd244b2-9a79-495d-87b3-1df519b7daed",
           "consumer_patch_model:165502-9fd244b2-9a79-495d-87b3-1df519b7daed",
@@ -846,16 +844,18 @@
           "consumer_patch_model:165846-9fd244b2-9a79-495d-87b3-1df519b7daed",
           "consumer_patch_model:168941-b3784c87-c644-4d4b-8023-74eb5631ab63",
           "consumer_patch_model:169287-b3784c87-c644-4d4b-8023-74eb5631ab63",
+          "consumer_patch_model:25506-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+          "consumer_patch_model:37874-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+          "consumer_patch_model:40823-6056f769-038e-42a0-9f5a-fe38e739e1ed",
           "consumer_patch_model:503513-95d88d42-94c3-4d21-be5e-db151fe8757c",
-          "consumer_patch_model:550637-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
           "patch_group_model:159074-911045c3-8a0e-4bca-a72d-2916efb1018c",
           "producer_patch_model:1004841-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-          "producer_patch_model:1010539-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-          "producer_patch_model:1016447-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
           "producer_patch_model:10177-00683b03-6ad7-4780-a71e-6cf0507be29b",
           "producer_patch_model:166594-9fd244b2-9a79-495d-87b3-1df519b7daed",
           "producer_patch_model:169998-9fd244b2-9a79-495d-87b3-1df519b7daed",
           "producer_patch_model:256960-5d93081d-2a7f-414a-ae8e-417d54ddf142",
+          "producer_patch_model:37878-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+          "producer_patch_model:40702-6056f769-038e-42a0-9f5a-fe38e739e1ed",
           "producer_patch_model:502791-95d88d42-94c3-4d21-be5e-db151fe8757c",
           "shader_code_patch_model:503589-95d88d42-94c3-4d21-be5e-db151fe8757c",
           "template_patch_model:157760-9fd244b2-9a79-495d-87b3-1df519b7daed",
@@ -893,56 +893,6 @@
       }
     ],
     "patches": [
-      {
-        "modelName": "consumer_patch_model",
-        "name": "DiscoBallAnim",
-        "identifier": "consumer_patch_model:1010541-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "object": "block_scene_model:1009773-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "objectProperty": "rotation",
-        "position": [
-          1700,
-          788
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
-      {
-        "modelName": "consumer_patch_model",
-        "name": "DiscoBallAnim",
-        "identifier": "consumer_patch_model:1016449-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "object": "block_scene_model:1015655-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "objectProperty": "rotation",
-        "position": [
-          1700,
-          932
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "vec3",
-              "v": [
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        ],
-        "variantInfo": "local_transform"
-      },
       {
         "modelName": "consumer_patch_model",
         "name": "Instruction",
@@ -1087,20 +1037,9 @@
       },
       {
         "modelName": "consumer_patch_model",
-        "name": "Device",
-        "identifier": "consumer_patch_model:503513-95d88d42-94c3-4d21-be5e-db151fe8757c",
-        "object": "device:1073-19c62b79-8d4c-49c9-ae3f-98605ecfa30f",
-        "objectProperty": "render_pass_final_output",
-        "position": [
-          812,
-          -652
-        ]
-      },
-      {
-        "modelName": "consumer_patch_model",
-        "name": "DiscoBallAnim",
-        "identifier": "consumer_patch_model:550637-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "object": "block_scene_model:544669-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+        "name": "Disco Ball XZ - 0",
+        "identifier": "consumer_patch_model:25506-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "object": "sceneObject:547975-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
         "objectProperty": "rotation",
         "position": [
           1700,
@@ -1120,6 +1059,67 @@
           }
         ],
         "variantInfo": "local_transform"
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "Disco Ball Position -1",
+        "identifier": "consumer_patch_model:37874-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "object": "sceneObject:37150-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "objectProperty": "rotation",
+        "position": [
+          1700,
+          788
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                -0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "Disco Ball Position -2",
+        "identifier": "consumer_patch_model:40823-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "object": "sceneObject:40749-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "objectProperty": "rotation",
+        "position": [
+          1700,
+          932
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                0,
+                -0,
+                0
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "modelName": "consumer_patch_model",
+        "name": "Device",
+        "identifier": "consumer_patch_model:503513-95d88d42-94c3-4d21-be5e-db151fe8757c",
+        "object": "device:1073-19c62b79-8d4c-49c9-ae3f-98605ecfa30f",
+        "objectProperty": "render_pass_final_output",
+        "position": [
+          812,
+          -652
+        ]
       },
       {
         "modelName": "patch_group_model",
@@ -1194,32 +1194,12 @@
       },
       {
         "modelName": "producer_patch_model",
-        "name": "DiscoBallAnim",
-        "identifier": "producer_patch_model:1010539-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "object": "block_scene_model:1009773-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "position": [
-          1484,
-          788
-        ]
-      },
-      {
-        "modelName": "producer_patch_model",
-        "name": "DiscoBallAnim",
-        "identifier": "producer_patch_model:1016447-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "object": "block_scene_model:1015655-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
-        "position": [
-          1484,
-          932
-        ]
-      },
-      {
-        "modelName": "producer_patch_model",
         "name": "QuickAnimBlock",
         "identifier": "producer_patch_model:10177-00683b03-6ad7-4780-a71e-6cf0507be29b",
         "object": "block_scene_model:98096-6dd63439-4270-45ae-afc6-bd61ff2ea1c5",
         "position": [
-          668,
-          -76
+          596,
+          -52
         ]
       },
       {
@@ -1250,6 +1230,26 @@
         "position": [
           -52,
           -508
+        ]
+      },
+      {
+        "modelName": "producer_patch_model",
+        "name": "DiscoBallAnim",
+        "identifier": "producer_patch_model:37878-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "object": "block_scene_model:37160-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "position": [
+          1484,
+          788
+        ]
+      },
+      {
+        "modelName": "producer_patch_model",
+        "name": "DiscoBallRotateSlow",
+        "identifier": "producer_patch_model:40702-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "object": "block_scene_model:39340-6056f769-038e-42a0-9f5a-fe38e739e1ed",
+        "position": [
+          1484,
+          932
         ]
       },
       {
