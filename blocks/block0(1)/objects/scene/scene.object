@@ -1,0 +1,115 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "La Venus de Disco",
+  "identifier": "master3_d_object_model:525110-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+  "sourceIdentifier": "asset_collection_model:525114-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.31646794080734253,
+  "globalScaleFactor": 1,
+  "height": 0.9978845715522766,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.5707963705062866,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.3108658194541931,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "venus2.obj.cleaner.materialmerger.gles",
+      "identifier": "sceneObject:525098-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "mesh",
+          "name": "Object_2",
+          "identifier": "mesh:525100-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "nodeName": "Object_2",
+          "numberOfFaces": 15516,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:525104-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:525102-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:525107-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:525094-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                  "surfaceGroupIdentifier": "525108-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
