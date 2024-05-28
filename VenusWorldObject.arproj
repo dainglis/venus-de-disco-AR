@@ -189,7 +189,7 @@
           "name": "La Venus de Disco",
           "identifier": "asset_collection_model:525114-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
           "applicationData": [],
-          "assetDataHash": "c9385fbd7664f154a5f82d562c9682e7",
+          "assetDataHash": "e6839291100f5d93efa40881cefc41e6",
           "assetLocator": "objects/scene/scene.gltf",
           "authoringTool": "Sketchfab-13.74.0",
           "excludeDuringExport": true,
