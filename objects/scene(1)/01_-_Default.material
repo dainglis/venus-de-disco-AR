@@ -69,7 +69,7 @@
   "importIssues": {},
   "ior": 1.5,
   "iorEnabled": false,
-  "isBaseColorTextureIdentifierEnabled": false,
+  "isBaseColorTextureIdentifierEnabled": true,
   "isDiffuseEnvironmentTextureIdentifierEnabled": false,
   "isDiffuseTextureIdentifierEnabled": false,
   "isEmissiveTextureIdentifierEnabled": false,

@@ -996,6 +996,2166 @@
             },
             {
               "modelName": "sceneObject",
+              "name": "Disco Ball Position -17",
+              "identifier": "sceneObject:18127-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -3.0896952152252197,
+                "y": 0,
+                "z": -2.933480739593506
+              },
+              "children": [
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "Disco Ball Height",
+                  "identifier": "3_d_object_instance_model:18133-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.8028020858764648,
+                  "height": 0.7987241744995117,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": -0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.00000762939453125,
+                    "y": 0.7242183685302734,
+                    "z": -4.76837158203125E-7
+                  },
+                  "width": 0.8028020858764648,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Disco Ball Model",
+                      "identifier": "sceneObject:18131-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": -1.1920930376163597E-7,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 2.4000000953674316,
+                        "sy": 2.4000000953674316,
+                        "sz": 2.4000000953674316,
+                        "x": 2.9802322387695312E-8,
+                        "y": 1.1920928955078125E-7,
+                        "z": 1.1920928955078125E-7
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_02 - Default_0",
+                          "identifier": "mesh:18157-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_02 - Default_0",
+                          "numberOfFaces": 27904,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543028-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:18159-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:18145-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                },
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface1",
+                                  "identifier": "surface:18161-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_01 - Default_0",
+                          "identifier": "mesh:18147-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_01 - Default_0",
+                          "numberOfFaces": 3840,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543040-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:18151-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:18163-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543012-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543044-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "plane",
+                  "name": "Shadow",
+                  "identifier": "plane:18139-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "horizontalAlignment": "center",
+                  "horizontalSpacing": 0,
+                  "isMaterialIdentifierEnabled": true,
+                  "layerIdentifier": "layer0",
+                  "materialIdentifier": "defaultMaterial:101004-e2fcc7b4-479d-45c2-a136-c0a6ad66267b",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "textureHeight": 0.1,
+                  "textureWidth": 0.1,
+                  "transform": {
+                    "rx": -1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 5.199999809265137,
+                    "sy": 5.199999809265137,
+                    "sz": 5.199999809265137,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "verticalAlignment": "center",
+                  "verticalSpacing": 0
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Disco Ball Position -16",
+              "identifier": "sceneObject:18004-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -3.536449909210205,
+                "y": 0,
+                "z": 2.449744939804077
+              },
+              "children": [
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "Disco Ball Height",
+                  "identifier": "3_d_object_instance_model:18024-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.8028020858764648,
+                  "height": 0.7987241744995117,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 1.0556834936141968,
+                    "z": 0
+                  },
+                  "width": 0.8028020858764648,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Disco Ball Model",
+                      "identifier": "sceneObject:18028-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": -1.1920930376163597E-7,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1.9900000095367432,
+                        "sy": 1.9900000095367432,
+                        "sz": 1.9900000095367432,
+                        "x": 2.9802322387695312E-8,
+                        "y": 1.1920928955078125E-7,
+                        "z": 1.1920928955078125E-7
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_02 - Default_0",
+                          "identifier": "mesh:18018-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_02 - Default_0",
+                          "numberOfFaces": 27904,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543028-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:18040-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:18010-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                },
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface1",
+                                  "identifier": "surface:18022-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_01 - Default_0",
+                          "identifier": "mesh:18030-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_01 - Default_0",
+                          "numberOfFaces": 3840,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543040-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:18032-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:18042-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543012-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543044-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "plane",
+                  "name": "Shadow",
+                  "identifier": "plane:18020-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "horizontalAlignment": "center",
+                  "horizontalSpacing": 0,
+                  "isMaterialIdentifierEnabled": true,
+                  "layerIdentifier": "layer0",
+                  "materialIdentifier": "defaultMaterial:101004-e2fcc7b4-479d-45c2-a136-c0a6ad66267b",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "textureHeight": 0.1,
+                  "textureWidth": 0.1,
+                  "transform": {
+                    "rx": -1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 3.299999952316284,
+                    "sy": 3.299999952316284,
+                    "sz": 3.299999952316284,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "verticalAlignment": "center",
+                  "verticalSpacing": 0
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Disco Ball Position -15",
+              "identifier": "sceneObject:17881-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 1.7033922672271729,
+                "y": 4.76837158203125E-7,
+                "z": -3.812246561050415
+              },
+              "children": [
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "Disco Ball Height",
+                  "identifier": "3_d_object_instance_model:17891-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.8028020858764648,
+                  "height": 0.7987241744995117,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0.8981107473373413,
+                    "z": -0.0000209808349609375
+                  },
+                  "width": 0.8028020858764648,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Disco Ball Model",
+                      "identifier": "sceneObject:17903-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": -1.1920930376163597E-7,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1.899999976158142,
+                        "sy": 1.899999976158142,
+                        "sz": 1.899999976158142,
+                        "x": 2.9802322387695312E-8,
+                        "y": 1.1920928955078125E-7,
+                        "z": 1.1920928955078125E-7
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_02 - Default_0",
+                          "identifier": "mesh:17917-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_02 - Default_0",
+                          "numberOfFaces": 27904,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543028-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17919-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17923-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                },
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface1",
+                                  "identifier": "surface:17925-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_01 - Default_0",
+                          "identifier": "mesh:17905-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_01 - Default_0",
+                          "numberOfFaces": 3840,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543040-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17897-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17883-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543012-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543044-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "plane",
+                  "name": "Shadow",
+                  "identifier": "plane:17885-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "horizontalAlignment": "center",
+                  "horizontalSpacing": 0,
+                  "isMaterialIdentifierEnabled": true,
+                  "layerIdentifier": "layer0",
+                  "materialIdentifier": "defaultMaterial:101004-e2fcc7b4-479d-45c2-a136-c0a6ad66267b",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "textureHeight": 0.1,
+                  "textureWidth": 0.1,
+                  "transform": {
+                    "rx": -1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 2.5,
+                    "sy": 2.5,
+                    "sz": 2.5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "verticalAlignment": "center",
+                  "verticalSpacing": 0
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Disco Ball Position -14",
+              "identifier": "sceneObject:17760-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -2.375786304473877,
+                "y": 0,
+                "z": -1.6507608890533447
+              },
+              "children": [
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "Disco Ball Height",
+                  "identifier": "3_d_object_instance_model:17776-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.8028020858764648,
+                  "height": 0.7987241744995117,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.0000040531158447265625,
+                    "y": 0.9426201581954956,
+                    "z": 0
+                  },
+                  "width": 0.8028020858764648,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Disco Ball Model",
+                      "identifier": "sceneObject:17786-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": -1.1920930376163597E-7,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1.9500000476837158,
+                        "sy": 1.9500000476837158,
+                        "sz": 1.9500000476837158,
+                        "x": 2.9802322387695312E-8,
+                        "y": 1.1920928955078125E-7,
+                        "z": 1.1920928955078125E-7
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_02 - Default_0",
+                          "identifier": "mesh:17798-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_02 - Default_0",
+                          "numberOfFaces": 27904,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543028-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17800-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17774-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                },
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface1",
+                                  "identifier": "surface:17802-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_01 - Default_0",
+                          "identifier": "mesh:17788-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_01 - Default_0",
+                          "numberOfFaces": 3840,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543040-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17790-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17804-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543012-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543044-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "plane",
+                  "name": "Shadow",
+                  "identifier": "plane:17772-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "horizontalAlignment": "center",
+                  "horizontalSpacing": 0,
+                  "isMaterialIdentifierEnabled": true,
+                  "layerIdentifier": "layer0",
+                  "materialIdentifier": "defaultMaterial:101004-e2fcc7b4-479d-45c2-a136-c0a6ad66267b",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "textureHeight": 0.1,
+                  "textureWidth": 0.1,
+                  "transform": {
+                    "rx": -1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 3.299999952316284,
+                    "sy": 3.299999952316284,
+                    "sz": 3.299999952316284,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "verticalAlignment": "center",
+                  "verticalSpacing": 0
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Disco Ball Position -13",
+              "identifier": "sceneObject:17643-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -1.7519111633300781,
+                "y": 0,
+                "z": 3.339794635772705
+              },
+              "children": [
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "Disco Ball Height",
+                  "identifier": "3_d_object_instance_model:17659-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.8028020858764648,
+                  "height": 0.7987241744995117,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 1.4028400182724,
+                    "z": 0
+                  },
+                  "width": 0.8028020858764648,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Disco Ball Model",
+                      "identifier": "sceneObject:17661-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": -1.1920930376163597E-7,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1.2000000476837158,
+                        "sy": 1.2000000476837158,
+                        "sz": 1.2000000476837158,
+                        "x": 2.9802322387695312E-8,
+                        "y": 1.1920928955078125E-7,
+                        "z": 1.1920928955078125E-7
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_02 - Default_0",
+                          "identifier": "mesh:17649-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_02 - Default_0",
+                          "numberOfFaces": 27904,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543028-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17681-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17655-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                },
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface1",
+                                  "identifier": "surface:17671-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_01 - Default_0",
+                          "identifier": "mesh:17667-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_01 - Default_0",
+                          "numberOfFaces": 3840,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543040-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17669-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17683-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543012-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543044-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "plane",
+                  "name": "Shadow",
+                  "identifier": "plane:17645-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "horizontalAlignment": "center",
+                  "horizontalSpacing": 0,
+                  "isMaterialIdentifierEnabled": true,
+                  "layerIdentifier": "layer0",
+                  "materialIdentifier": "defaultMaterial:101004-e2fcc7b4-479d-45c2-a136-c0a6ad66267b",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "textureHeight": 0.1,
+                  "textureWidth": 0.1,
+                  "transform": {
+                    "rx": -1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 2.5,
+                    "sy": 2.5,
+                    "sz": 2.5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "verticalAlignment": "center",
+                  "verticalSpacing": 0
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Disco Ball Position -12",
+              "identifier": "sceneObject:17520-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 2.4211437702178955,
+                "y": 0,
+                "z": 4.125265121459961
+              },
+              "children": [
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "Disco Ball Height",
+                  "identifier": "3_d_object_instance_model:17528-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.8028020858764648,
+                  "height": 0.7987241744995117,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 4.76837158203125E-7,
+                    "y": 1.612583875656128,
+                    "z": -0.00001049041748046875
+                  },
+                  "width": 0.8028020858764648,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Disco Ball Model",
+                      "identifier": "sceneObject:17538-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": -1.1920930376163597E-7,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1.5,
+                        "sy": 1.5,
+                        "sz": 1.5,
+                        "x": 2.9802322387695312E-8,
+                        "y": 1.1920928955078125E-7,
+                        "z": 1.1920928955078125E-7
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_02 - Default_0",
+                          "identifier": "mesh:17554-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_02 - Default_0",
+                          "numberOfFaces": 27904,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543028-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17548-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17556-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                },
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface1",
+                                  "identifier": "surface:17558-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_01 - Default_0",
+                          "identifier": "mesh:17540-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_01 - Default_0",
+                          "numberOfFaces": 3840,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543040-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17542-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17560-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543012-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543044-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "plane",
+                  "name": "Shadow",
+                  "identifier": "plane:17518-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "horizontalAlignment": "center",
+                  "horizontalSpacing": 0,
+                  "isMaterialIdentifierEnabled": true,
+                  "layerIdentifier": "layer0",
+                  "materialIdentifier": "defaultMaterial:101004-e2fcc7b4-479d-45c2-a136-c0a6ad66267b",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "textureHeight": 0.1,
+                  "textureWidth": 0.1,
+                  "transform": {
+                    "rx": -1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 3,
+                    "sy": 3,
+                    "sz": 3,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "verticalAlignment": "center",
+                  "verticalSpacing": 0
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Disco Ball Position -11",
+              "identifier": "sceneObject:17399-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 3.7588698863983154,
+                "y": 0,
+                "z": -1.2615703344345093
+              },
+              "children": [
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "Disco Ball Height",
+                  "identifier": "3_d_object_instance_model:17413-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.8028020858764648,
+                  "height": 0.7987241744995117,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 1.4028400182724,
+                    "z": 0
+                  },
+                  "width": 0.8028020858764648,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Disco Ball Model",
+                      "identifier": "sceneObject:17421-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": -1.1920930376163597E-7,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1.2000000476837158,
+                        "sy": 1.2000000476837158,
+                        "sz": 1.2000000476837158,
+                        "x": 2.9802322387695312E-8,
+                        "y": 1.1920928955078125E-7,
+                        "z": 1.1920928955078125E-7
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_02 - Default_0",
+                          "identifier": "mesh:17431-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_02 - Default_0",
+                          "numberOfFaces": 27904,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543028-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17433-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17435-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                },
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface1",
+                                  "identifier": "surface:17437-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_01 - Default_0",
+                          "identifier": "mesh:17409-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_01 - Default_0",
+                          "numberOfFaces": 3840,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543040-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17423-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17439-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543012-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543044-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "plane",
+                  "name": "Shadow",
+                  "identifier": "plane:17405-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "horizontalAlignment": "center",
+                  "horizontalSpacing": 0,
+                  "isMaterialIdentifierEnabled": true,
+                  "layerIdentifier": "layer0",
+                  "materialIdentifier": "defaultMaterial:101004-e2fcc7b4-479d-45c2-a136-c0a6ad66267b",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "textureHeight": 0.1,
+                  "textureWidth": 0.1,
+                  "transform": {
+                    "rx": -1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 2.5,
+                    "sy": 2.5,
+                    "sz": 2.5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "verticalAlignment": "center",
+                  "verticalSpacing": 0
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Disco Ball Position -10",
+              "identifier": "sceneObject:17278-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -4.474658966064453,
+                "y": 0,
+                "z": -0.19193267822265625
+              },
+              "children": [
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "Disco Ball Height",
+                  "identifier": "3_d_object_instance_model:17284-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.8028020858764648,
+                  "height": 0.7987241744995117,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0.79781574010849,
+                    "z": -0.000006198883056640625
+                  },
+                  "width": 0.8028020858764648,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Disco Ball Model",
+                      "identifier": "sceneObject:17300-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": -1.1920930376163597E-7,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1.75,
+                        "sy": 1.75,
+                        "sz": 1.75,
+                        "x": 2.9802322387695312E-8,
+                        "y": 1.1920928955078125E-7,
+                        "z": 1.1920928955078125E-7
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_02 - Default_0",
+                          "identifier": "mesh:17310-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_02 - Default_0",
+                          "numberOfFaces": 27904,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543028-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17312-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17286-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                },
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface1",
+                                  "identifier": "surface:17314-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_01 - Default_0",
+                          "identifier": "mesh:17282-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_01 - Default_0",
+                          "numberOfFaces": 3840,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543040-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:17292-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:17316-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543012-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543044-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "plane",
+                  "name": "Shadow",
+                  "identifier": "plane:17276-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "horizontalAlignment": "center",
+                  "horizontalSpacing": 0,
+                  "isMaterialIdentifierEnabled": true,
+                  "layerIdentifier": "layer0",
+                  "materialIdentifier": "defaultMaterial:101004-e2fcc7b4-479d-45c2-a136-c0a6ad66267b",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "textureHeight": 0.1,
+                  "textureWidth": 0.1,
+                  "transform": {
+                    "rx": -1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 4,
+                    "sy": 4,
+                    "sz": 4,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "verticalAlignment": "center",
+                  "verticalSpacing": 0
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Disco Ball Position -9",
+              "identifier": "sceneObject:5422-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 1.6407095193862915,
+                "y": 0,
+                "z": 1.1881076097488403
+              },
+              "children": [
+                {
+                  "modelName": "3_d_object_instance_model",
+                  "name": "Disco Ball Height",
+                  "identifier": "3_d_object_instance_model:5436-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "depth": 0.8028020858764648,
+                  "height": 0.7987241744995117,
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.0000035762786865234375,
+                    "y": 0.7411059141159058,
+                    "z": 0.0000015795230865478516
+                  },
+                  "width": 0.8028020858764648,
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Disco Ball Model",
+                      "identifier": "sceneObject:5444-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": -1.1920930376163597E-7,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 2.799999952316284,
+                        "sy": 2.799999952316284,
+                        "sz": 2.799999952316284,
+                        "x": 2.9802322387695312E-8,
+                        "y": 1.1920928955078125E-7,
+                        "z": 1.1920928955078125E-7
+                      },
+                      "children": [
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_02 - Default_0",
+                          "identifier": "mesh:5456-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_02 - Default_0",
+                          "numberOfFaces": 27904,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543028-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:5458-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:5460-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                },
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface1",
+                                  "identifier": "surface:5446-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543010-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543032-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "mesh",
+                          "name": "Sphere001_01 - Default_0",
+                          "identifier": "mesh:5448-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "castShadow": false,
+                          "hidden": false,
+                          "layerIdentifier": "layer0",
+                          "nodeName": "Sphere001_01 - Default_0",
+                          "numberOfFaces": 3840,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "prefabIdentifier": "gltf:543040-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                          "receiveShadow": false,
+                          "renderPass": "main_scene",
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "useEmbeddedBlendshapes": false,
+                          "children": [
+                            {
+                              "modelName": "surfaces",
+                              "identifier": "surfaces:5428-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                              "children": [
+                                {
+                                  "modelName": "surface",
+                                  "name": "surface0",
+                                  "identifier": "surface:5462-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                                  "isMaterialIdentifierEnabled": true,
+                                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:543012-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
+                                  "surfaceGroupIdentifier": "543044-a227f3aa-ff3e-4121-82fe-d19fddbc30ae"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "plane",
+                  "name": "Shadow",
+                  "identifier": "plane:5438-ee79604f-c611-4588-b8b6-436ee2a3f91e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "horizontalAlignment": "center",
+                  "horizontalSpacing": 0,
+                  "isMaterialIdentifierEnabled": true,
+                  "layerIdentifier": "layer0",
+                  "materialIdentifier": "defaultMaterial:101004-e2fcc7b4-479d-45c2-a136-c0a6ad66267b",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "textureHeight": 0.1,
+                  "textureWidth": 0.1,
+                  "transform": {
+                    "rx": -1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 2.5,
+                    "sy": 2.5,
+                    "sz": 2.5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "verticalAlignment": "center",
+                  "verticalSpacing": 0
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
               "name": "Disco Ball Position -8",
               "identifier": "sceneObject:49810-6056f769-038e-42a0-9f5a-fe38e739e1ed",
               "animationMask": {
@@ -1013,7 +3173,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -1042,14 +3202,14 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": 0,
+                    "ry": 0.45457884669303894,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
                     "sz": 1,
-                    "x": 0,
-                    "y": 2.799999952316284,
-                    "z": 0
+                    "x": -0.000050067901611328125,
+                    "y": 1.9412474632263184,
+                    "z": 0.000055789947509765625
                   },
                   "width": 0.8028020858764648,
                   "children": [
@@ -1253,14 +3413,14 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
-                "sx": 0.9999999403953552,
+                "sx": 0.9999998807907104,
                 "sy": 1,
-                "sz": 0.9999999403953552,
-                "x": -1.457830548286438,
+                "sz": 0.9999998807907104,
+                "x": -1.7692933082580566,
                 "y": -0.000005900859832763672,
-                "z": 0.6656873226165771
+                "z": 0.3643418550491333
               },
               "children": [
                 {
@@ -1282,7 +3442,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -1314,9 +3474,9 @@
                         "rx": -1.1920930376163597E-7,
                         "ry": 0,
                         "rz": 0,
-                        "sx": 1.399999976158142,
-                        "sy": 1.399999976158142,
-                        "sz": 1.399999976158142,
+                        "sx": 2.8499999046325684,
+                        "sy": 2.8499999046325684,
+                        "sz": 2.8499999046325684,
                         "x": 2.9802322387695312E-8,
                         "y": 1.1920928955078125E-7,
                         "z": 1.1920928955078125E-7
@@ -1462,9 +3622,9 @@
                     "rx": -1.5707963705062866,
                     "ry": 0,
                     "rz": 0,
-                    "sx": 2.5,
-                    "sy": 2.5,
-                    "sz": 2.5,
+                    "sx": 4,
+                    "sy": 4,
+                    "sz": 4,
                     "x": 0,
                     "y": 0,
                     "z": 0
@@ -1493,14 +3653,14 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
                 "sz": 1,
-                "x": 1.1508821249008179,
+                "x": 0.307630717754364,
                 "y": 0.00003170967102050781,
-                "z": 2.4356846809387207
+                "z": 2.6548454761505127
               },
               "children": [
                 {
@@ -1522,7 +3682,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -1554,9 +3714,9 @@
                         "rx": -1.1920930376163597E-7,
                         "ry": 0,
                         "rz": 0,
-                        "sx": 1,
-                        "sy": 1,
-                        "sz": 1,
+                        "sx": 1.7999999523162842,
+                        "sy": 1.7999999523162842,
+                        "sz": 1.7999999523162842,
                         "x": 2.9802322387695312E-8,
                         "y": 1.1920928955078125E-7,
                         "z": 1.1920928955078125E-7
@@ -1702,9 +3862,9 @@
                     "rx": -1.5707963705062866,
                     "ry": 0,
                     "rz": 0,
-                    "sx": 2.5,
-                    "sy": 2.5,
-                    "sz": 2.5,
+                    "sx": 2.799999952316284,
+                    "sy": 2.799999952316284,
+                    "sz": 2.799999952316284,
                     "x": 0,
                     "y": 0,
                     "z": 0
@@ -1733,7 +3893,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -1762,7 +3922,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -1973,7 +4133,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -2002,7 +4162,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -2213,7 +4373,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 0.9999999403953552,
                 "sy": 1,
@@ -2242,7 +4402,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -2458,9 +4618,9 @@
                 "sx": 1,
                 "sy": 1,
                 "sz": 1,
-                "x": 0.763785183429718,
+                "x": -0.14221197366714478,
                 "y": 0,
-                "z": -4.413138389587402
+                "z": -4.53347110748291
               },
               "children": [
                 {
@@ -2482,14 +4642,14 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": 0,
+                    "ry": -0.33443358540534973,
                     "rz": 0,
-                    "sx": 1,
-                    "sy": 1,
+                    "sx": 1.0000001192092896,
+                    "sy": 1.0000001192092896,
                     "sz": 1,
-                    "x": 0,
-                    "y": 2,
-                    "z": 0
+                    "x": 0.0000040531158447265625,
+                    "y": 1.8228100538253784,
+                    "z": 0.000010013580322265625
                   },
                   "width": 0.8028020858764648,
                   "children": [
@@ -2514,9 +4674,9 @@
                         "rx": -1.1920930376163597E-7,
                         "ry": 0,
                         "rz": 0,
-                        "sx": 1,
-                        "sy": 1,
-                        "sz": 1,
+                        "sx": 1.649999976158142,
+                        "sy": 1.649999976158142,
+                        "sz": 1.649999976158142,
                         "x": 2.9802322387695312E-8,
                         "y": 1.1920928955078125E-7,
                         "z": 1.1920928955078125E-7
@@ -2662,9 +4822,9 @@
                     "rx": -1.5707963705062866,
                     "ry": 0,
                     "rz": 0,
-                    "sx": 2.5,
-                    "sy": 2.5,
-                    "sz": 2.5,
+                    "sx": 3.0999999046325684,
+                    "sy": 3.0999999046325684,
+                    "sz": 3.0999999046325684,
                     "x": 0,
                     "y": 0,
                     "z": 0
@@ -2695,12 +4855,12 @@
                 "rx": 0,
                 "ry": 0,
                 "rz": 0,
-                "sx": 1,
+                "sx": 0.9999998807907104,
                 "sy": 1,
-                "sz": 1,
-                "x": 0.6423286199569702,
-                "y": -2.980232238769531E-7,
-                "z": 0.5051122903823853
+                "sz": 0.9999998807907104,
+                "x": 1.0447769165039062,
+                "y": 3.5762786865234375E-7,
+                "z": -0.1640574336051941
               },
               "children": [
                 {
@@ -2754,9 +4914,9 @@
                         "rx": -1.1920930376163597E-7,
                         "ry": 0,
                         "rz": 0,
-                        "sx": 0.6200000047683716,
-                        "sy": 0.6200000047683716,
-                        "sz": 0.6200000047683716,
+                        "sx": 1.899999976158142,
+                        "sy": 1.899999976158142,
+                        "sz": 1.899999976158142,
                         "x": 2.9802322387695312E-8,
                         "y": 1.1920928955078125E-7,
                         "z": 1.1920928955078125E-7
@@ -2902,9 +5062,9 @@
                     "rx": -1.5707963705062866,
                     "ry": 0,
                     "rz": 0,
-                    "sx": 1.7999999523162842,
-                    "sy": 1.7999999523162842,
-                    "sz": 1.7999999523162842,
+                    "sx": 2.700000047683716,
+                    "sy": 2.700000047683716,
+                    "sz": 2.700000047683716,
                     "x": 0,
                     "y": 0,
                     "z": 0

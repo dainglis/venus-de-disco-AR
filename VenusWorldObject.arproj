@@ -3,7 +3,7 @@
   "name": "Effect",
   "identifier": "document:1038-19c62b79-8d4c-49c9-ae3f-98605ecfa30f",
   "id": "439946a227f3aaff3e412182fed19fddbc30ae",
-  "revision": "1016456a227f3aaff3e412182fed19fddbc30ae",
+  "revision": "7707ee79604fc6114588b8b6436ee2a3f91e",
   "version": {
     "dev": 0,
     "patch": 0,
@@ -224,7 +224,7 @@
           "name": "Disco Ball",
           "identifier": "asset_collection_model:543056-a227f3aa-ff3e-4121-82fe-d19fddbc30ae",
           "applicationData": [],
-          "assetDataHash": "f89ec0d5fefc90537bdb4f046242cddc",
+          "assetDataHash": "15eb2fccb3c596cffb94101d634861ea",
           "assetLocator": "objects/scene(1)/scene.gltf",
           "authoringTool": "Sketchfab-12.65.0",
           "excludeDuringExport": true,
@@ -282,7 +282,7 @@
           "modelName": "shader_code_asset_model",
           "name": "imageBasedAntiAliasingShader",
           "identifier": "shader_code_asset_model:503573-95d88d42-94c3-4d21-be5e-db151fe8757c",
-          "assetDataHash": "3dc85fdd37d97e927c7f012e89dea370",
+          "assetDataHash": "1a58b12e2a96ec7805957032e8b0a470",
           "assetLocator": "shaders/imageBasedAntiAliasingShader.sca",
           "builtinDeps": [
             "texture2d",
@@ -291,15 +291,15 @@
           ],
           "externalDeps": [],
           "isExternalAsset": true,
-          "moduleName": "sparkShaderCode9485321418011661980",
-          "wordsHash": 5071223823444593832,
+          "moduleName": "sparkShaderCode2308604631848626894",
+          "wordsHash": -8497962114494839275,
           "children": [
             {
               "modelName": "shader_interface_model",
               "identifier": "shader_interface_model:503575-95d88d42-94c3-4d21-be5e-db151fe8757c",
-              "description": "A SparkSL implementation of Fast Approximate Anti-Aliasing (FXAA).\nThis is entry point of the shader.",
+              "description": "A SparkSL implementation of Fast Approximate Anti-Aliasing (FXAA).\r\nThis is entry point of the shader.",
               "functionName": "user::main",
-              "linkageName": "sparkShaderCode9485321418011661980",
+              "linkageName": "sparkShaderCode2308604631848626894",
               "children": [
                 {
                   "modelName": "shaderInputPorts",
@@ -308,7 +308,7 @@
                     {
                       "modelName": "shader_input_port_model",
                       "name": "Texture",
-                      "identifier": "shader_input_port_model:503581-95d88d42-94c3-4d21-be5e-db151fe8757c",
+                      "identifier": "shader_input_port_model:1160-ee79604f-c611-4588-b8b6-436ee2a3f91e",
                       "defaultValue": {
                         "type": 0,
                         "value": 0
@@ -319,7 +319,7 @@
                     {
                       "modelName": "shader_input_port_model",
                       "name": "EdgeSharpness",
-                      "identifier": "shader_input_port_model:503583-95d88d42-94c3-4d21-be5e-db151fe8757c",
+                      "identifier": "shader_input_port_model:1162-ee79604f-c611-4588-b8b6-436ee2a3f91e",
                       "defaultValue": {
                         "type": 0,
                         "value": 0.5
@@ -337,7 +337,7 @@
                     {
                       "modelName": "shader_input_port_model",
                       "name": "EdgeThreshold",
-                      "identifier": "shader_input_port_model:503585-95d88d42-94c3-4d21-be5e-db151fe8757c",
+                      "identifier": "shader_input_port_model:1164-ee79604f-c611-4588-b8b6-436ee2a3f91e",
                       "defaultValue": {
                         "type": 0,
                         "value": 0.5
@@ -361,7 +361,7 @@
                     {
                       "modelName": "shader_output_port_model",
                       "name": "return",
-                      "identifier": "shader_output_port_model:503587-95d88d42-94c3-4d21-be5e-db151fe8757c",
+                      "identifier": "shader_output_port_model:1166-ee79604f-c611-4588-b8b6-436ee2a3f91e",
                       "description": "texture",
                       "valueType": "lambda_vec2_to_vec4"
                     }
@@ -385,7 +385,7 @@
           "modelName": "script",
           "name": "License.js",
           "identifier": "script:500999-95d88d42-94c3-4d21-be5e-db151fe8757c",
-          "assetDataHash": "d22e03b989a5913cb875b2919120a8c8",
+          "assetDataHash": "418ca6714ecab4461a6d14fbad6c970c",
           "assetLocator": "scripts/License.js",
           "isExternalAsset": true
         }
@@ -847,7 +847,7 @@
           "modelName": "block_model",
           "name": "LoopingAnimBlock",
           "identifier": "block_model:96096-6dd63439-4270-45ae-afc6-bd61ff2ea1c5",
-          "assetDataHash": "8c31ed502fd3fd08aea186c4d39277a1",
+          "assetDataHash": "7c5d36336344effa6449536792cb6f88",
           "assetLocator": "blocks/block0/block0.arblock",
           "excludeDuringExport": true,
           "instances": [
