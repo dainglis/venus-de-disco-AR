@@ -173,72 +173,6 @@
       },
       "children": [
         {
-          "modelName": "ambient_light_source_model",
-          "name": "ambientLight0",
-          "identifier": "ambient_light_source_model:1079-19c62b79-8d4c-49c9-ae3f-98605ecfa30f",
-          "animationMask": {
-            "position": false,
-            "rotation": false,
-            "scale": false
-          },
-          "cameraVisibility": "back|front",
-          "color": "0xffffffff",
-          "hidden": false,
-          "intensity": 0.4000000059604645,
-          "layerIdentifier": "layer0",
-          "outputVisibility": "preview|capture",
-          "physicsEnabled": false,
-          "tags": [],
-          "transform": {
-            "rx": 0,
-            "ry": 0,
-            "rz": 0,
-            "sx": 1,
-            "sy": 1,
-            "sz": 1,
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "modelName": "directional_light_source_model",
-          "name": "directionalLight0",
-          "identifier": "directional_light_source_model:1080-19c62b79-8d4c-49c9-ae3f-98605ecfa30f",
-          "animationMask": {
-            "position": false,
-            "rotation": false,
-            "scale": false
-          },
-          "cameraVisibility": "back|front",
-          "castShadow": false,
-          "color": "0xffffffff",
-          "hidden": false,
-          "intensity": 0.699999988079071,
-          "layerIdentifier": "layer0",
-          "outputVisibility": "preview|capture",
-          "physicsEnabled": false,
-          "shadowBias": 0,
-          "shadowFrustumDepth": 1,
-          "shadowFrustumSize": 0.5,
-          "shadowNear": 0.05,
-          "shadowSoftness": 0,
-          "shadowStrength": 1,
-          "shadowTextureSize": 256,
-          "tags": [],
-          "transform": {
-            "rx": -0.7853981852531433,
-            "ry": 0.08726644515991211,
-            "rz": 0,
-            "sx": 1,
-            "sy": 1,
-            "sz": 1,
-            "x": 0.029999999329447746,
-            "y": 0.25,
-            "z": 0.30000001192092896
-          }
-        },
-        {
           "modelName": "sceneObject",
           "name": "Disco Balls Anchor",
           "identifier": "sceneObject:20163-e8726d1f-93b6-4ffe-a9aa-c496bb7e03af",
@@ -267,6 +201,146 @@
             "z": 0
           },
           "children": [
+            {
+              "modelName": "ambient_light_source_model",
+              "name": "ambientLight0",
+              "identifier": "ambient_light_source_model:1079-19c62b79-8d4c-49c9-ae3f-98605ecfa30f",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "color": "0xff4632bb",
+              "hidden": false,
+              "intensity": 0.15454545617103577,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "modelName": "directional_light_source_model",
+              "name": "directionalLight0",
+              "identifier": "directional_light_source_model:1080-19c62b79-8d4c-49c9-ae3f-98605ecfa30f",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "color": "0xff0effef",
+              "hidden": false,
+              "intensity": 1,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shadowBias": 0,
+              "shadowFrustumDepth": 1,
+              "shadowFrustumSize": 0.5,
+              "shadowNear": 0.05,
+              "shadowSoftness": 0,
+              "shadowStrength": 1,
+              "shadowTextureSize": 256,
+              "tags": [],
+              "transform": {
+                "rx": -0.3406350910663605,
+                "ry": 0.5676097273826599,
+                "rz": 0.2508391737937927,
+                "sx": 1.0000001192092896,
+                "sy": 0.9999996423721313,
+                "sz": 0.9999995827674866,
+                "x": 0.029999999329447746,
+                "y": 0.25,
+                "z": 0.30000001192092896
+              }
+            },
+            {
+              "modelName": "directional_light_source_model",
+              "name": "directionalLight1",
+              "identifier": "directional_light_source_model:21766-f9f15ac7-dfed-4e64-8f81-ea73fcf6d10b",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "color": "0xff4631bc",
+              "hidden": false,
+              "intensity": 1,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shadowBias": 0,
+              "shadowFrustumDepth": 1,
+              "shadowFrustumSize": 0.5,
+              "shadowNear": 0.05,
+              "shadowSoftness": 0,
+              "shadowStrength": 1,
+              "shadowTextureSize": 256,
+              "tags": [],
+              "transform": {
+                "rx": 0.9737356901168823,
+                "ry": -0.2875511050224304,
+                "rz": -1.8729591369628906,
+                "sx": 0.9999999403953552,
+                "sy": 0.9999997615814209,
+                "sz": 0.9999999403953552,
+                "x": 0.029999999329447746,
+                "y": 0.25,
+                "z": 0.30000001192092896
+              }
+            },
+            {
+              "modelName": "directional_light_source_model",
+              "name": "directionalLight2",
+              "identifier": "directional_light_source_model:21782-f9f15ac7-dfed-4e64-8f81-ea73fcf6d10b",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "color": "0xffcc2778",
+              "hidden": false,
+              "intensity": 0.699999988079071,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shadowBias": 0,
+              "shadowFrustumDepth": 1,
+              "shadowFrustumSize": 0.5,
+              "shadowNear": 0.05,
+              "shadowSoftness": 0,
+              "shadowStrength": 1,
+              "shadowTextureSize": 256,
+              "tags": [],
+              "transform": {
+                "rx": -2.497619867324829,
+                "ry": 0.6415838599205017,
+                "rz": -0.3322525918483734,
+                "sx": 1.000000238418579,
+                "sy": 1.0000003576278687,
+                "sz": 1.0000001192092896,
+                "x": 0.029999999329447746,
+                "y": 0.25,
+                "z": 0.30000001192092896
+              }
+            },
             {
               "modelName": "block_scene_model",
               "name": "DiscoBallRotateDefault",
@@ -721,7 +795,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -750,7 +824,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -961,7 +1035,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -990,7 +1064,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -1201,7 +1275,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -1230,7 +1304,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -1441,7 +1515,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -1470,7 +1544,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -1681,7 +1755,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -1710,7 +1784,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -1921,7 +1995,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -1950,7 +2024,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -2161,7 +2235,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -2190,7 +2264,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -2401,7 +2475,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -2430,7 +2504,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -2641,7 +2715,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -2670,7 +2744,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -2881,7 +2955,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -2910,7 +2984,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -3121,7 +3195,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -3150,7 +3224,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -3361,7 +3435,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -3390,7 +3464,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -3601,7 +3675,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -3630,7 +3704,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -3841,7 +3915,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -3870,7 +3944,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -4081,7 +4155,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -4321,7 +4395,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -4561,7 +4635,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -4590,7 +4664,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -4801,7 +4875,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -4830,7 +4904,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -5041,7 +5115,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -5070,7 +5144,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
@@ -5281,7 +5355,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -5310,7 +5384,7 @@
                   "tags": [],
                   "transform": {
                     "rx": 1.5707963705062866,
-                    "ry": -0,
+                    "ry": 0,
                     "rz": 0,
                     "sx": 1,
                     "sy": 1,
